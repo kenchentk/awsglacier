@@ -1,0 +1,50 @@
+founders@phillytalent.com
+
+team-hoofar
+
+
+
+username:
+	iteam-ken
+password:
+	9uj3kjljaba;02l
+url
+	s3://al-chemy-cp/cms/phillytalent2.local-20200131-194143-267.wpress
+flywheel
+	https://localbyflywheel.com/
+		
+
+		
+		
+Dear Amazon WorkSpaces User,
+
+ A new Amazon WorkSpace has been provided for you. Follow the steps below to quickly get up and running with your WorkSpace:
+
+ 1. Complete your user profile and download a WorkSpaces client using the following link: https://phillytalent.awsapps.com/auth/?#invite:token=11zjbcODcuq7tKE8QVf3O_1ZesIj9yotvM1mEw7VlDIES0Ak0z-YHkLbnLib3KZj4gqaojSe5WvLUeP2njE93EY8FEytLqh929cfI8jQDabsMzBEXlujmVal-YTPT-HhJzgRLxyVCrsAosuzU5nKoo_gRpFid9hY941JEMOYlgR7C12xTXQOd3PV0LSi2bGhGJ5xoNuJik1hnDkw&redirect_uri=https://clients.amazonworkspaces.com/&client_id=a95c28b20a7643e3
+
+ 2. Launch the client and enter the following registration code: SLiad+WNE3T2
+
+ 3. Login with your newly created password. Your username is team-hoofar
+
+ You may download clients for additional devices at https://clients.amazonworkspaces.com/
+
+ If you have any issues connecting to your WorkSpace, please contact your administrator.
+
+
+
+
+
+team-ken
+#Y!4XXRUMEsrRel4!BEf3&cw
+
+
+kencheng
+5FU5xu58rQC#3fTuKAILz3eg
+
+
+wordpress 
+template files 
+links
+data scraping
+
+input -> CMS -> 
